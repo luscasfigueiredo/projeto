@@ -1,1 +1,1 @@
-//criando os banners
+//é isso ai
